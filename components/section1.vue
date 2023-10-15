@@ -16,7 +16,7 @@
           <img src="/background1.png" alt="computer-background">
         </div>
         <div>
-          <Button class="mt-10 w-full rounded-lg hover:bg-red-500" href="/register">
+          <Button class="mt-10 w-full rounded-lg hover:bg-red-500" href="/">
             <Icon name="fa:shopping-cart" size="20px" class="mr-2" />
             Isprobaj
           </Button>

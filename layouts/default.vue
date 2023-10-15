@@ -19,8 +19,6 @@ const toggle = () => {
           </div>
           <div class="flex-row bg-white md:flex absolute md:static left-0 w-full md:w-auto" :class="visible ? 'flex-row md:flex' : 'hidden md:flex'">
               <nav-link href="/">Početna</nav-link>
-              <nav-link href="/login">Prijava</nav-link>
-              <nav-link href="/register">Registracija</nav-link>
           </div>
 
         </div>
