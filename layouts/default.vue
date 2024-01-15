@@ -18,7 +18,7 @@ const toggle = () => {
             <Icon class="cursor-pointer" @click="toggle" name="fa:bars" size="30px" />
           </div>
           <div class="flex-row bg-white md:flex absolute md:static left-0 w-full md:w-auto" :class="visible ? 'flex-row md:flex' : 'hidden md:flex'">
-              <nav-link href="/">Početna</nav-link>
+              <nav-link href="/">Početn</nav-link>
           </div>
 
         </div>
